@@ -6,7 +6,9 @@ readme = "README.md"
 requires-python = ">=3.10.16"
 dependencies = [
     "anthropic>=0.71.0",
+    "bokeh>=3.8.0",
     "gradio[mcp]>=5.30.0",
+    "ipywidgets>=8.1.7",
     "matplotlib>=3.10.7",
     "mcp[cli]>=1.19.0",
     "npm>=0.1.1",
